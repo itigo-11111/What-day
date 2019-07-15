@@ -1,0 +1,39 @@
+{
+  "name": "pureanim",
+  "version": "1.0.0",
+  "description": "This application is only html and CSS animation posting site.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kiotaku/PureAnim.git"
+  },
+  "keywords": [
+    "express",
+    "body-parser",
+    "mongoose",
+    "passport",
+    "bcrypt",
+    "dotenv",
+    "sanitize-html"
+  ],
+  "author": "Kioka Takumi",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/kiotaku/PureAnim/issues"
+  },
+  "homepage": "https://github.com/kiotaku/PureAnim#readme",
+  "dependencies": {
+    "bcrypt": "^3.0.6",
+    "body-parser": "^1.19.0",
+    "dotenv": "^8.0.0",
+    "express": "^4.17.1",
+    "express-session": "^1.16.2",
+    "mongoose": "^5.6.4",
+    "passport": "^0.4.0",
+    "passport-local": "^1.0.0",
+    "sanitize-html": "^1.20.1"
+  }
+}
